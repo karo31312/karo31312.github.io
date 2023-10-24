@@ -39,6 +39,7 @@
 
 
 
+localStorage.setItem("key", 32343)
 
 
 
